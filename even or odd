@@ -1,0 +1,6 @@
+#even odd
+i=int(input("enter value i:"))
+if(i/2==0):
+    print("even",i)
+else:
+    print("odd",i)
